@@ -1,2 +1,2 @@
 # SerialCpp
-Read/Write strings through the serial ports
+Windows only Read/Write strings through the serial ports
